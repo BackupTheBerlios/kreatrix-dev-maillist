@@ -1,0 +1,10 @@
+From spirali at kreatrix.org  Thu Aug 14 14:17:26 2008
+From: spirali at kreatrix.org (spirali at kreatrix.org)
+Date: Thu, 14 Aug 2008 14:17:26 +0200
+Subject: [Kreatrix-dev] Test message
+Message-ID: <46282937545e1f088fa5ac51e856ba09@localhost>
+
+Test message
+
+
+
